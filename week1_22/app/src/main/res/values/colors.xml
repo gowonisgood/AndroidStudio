@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="custom_primary">#23CC97</color>  <!-- 동그라미 색상 -->
+    <color name="custom_accent">#2196F3</color>  <!-- 강조 색상 -->
+    <color name="custom_selection">#FFFFFFFF</color> <!-- 선택된 날짜 색상 -->
+</resources>

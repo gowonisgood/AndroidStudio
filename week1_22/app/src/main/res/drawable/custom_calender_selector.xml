@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <shape android:shape="oval">
+            <solid android:color="#05AF9F"/> <!-- 선택된 날짜 배경 색상 (빨간색) -->
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#81EFFF"/> <!-- 기본 날짜 배경 색상 -->
+        </shape>
+    </item>
+</selector>
